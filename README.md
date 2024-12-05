@@ -1,3 +1,5 @@
+**Rosetta Stone Subscriber Analysis**
+
 **Executive Summary:**
 
 This report presents the modeling, analysis, and insights derived from examining the data frame concerning Rosetta Stone subscribers. Each objective presented distinct challenges, necessitating specialized data manipulation and model application to fulfill.
